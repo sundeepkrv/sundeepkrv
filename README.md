@@ -12,8 +12,9 @@
 
 ## 🛠&nbsp;Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,javascript,flask,html,css,bootstrap,github" />
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,javascript,chartjs,github" />
 
 ## 📈&nbsp;Github Statistics
 
-[![!Sundeep K R V Github Statistics](https://github-readme-stats.vercel.app/api?username=sundeepkrv&show_icons=true&theme=transparent&hide_border=true)](https://github-readme-stats.vercel.app/api?username=sundeepkrv)
+![!Sundeep K R V Github Statistics](https://github-readme-stats.vercel.app/api?username=sundeepkrv&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundeepkrv&show_icons=true&theme=transparent&hide_border=true)
