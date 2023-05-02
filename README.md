@@ -12,12 +12,8 @@
 
 ## 🛠&nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://icons8.com/icon/63777/github)&nbsp;
+<img src="https://skillicons.dev/icons?i=python,javascript,flask,html,css,bootstrap,github" />
 
-[![Sundeep K R V's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundeepkrv&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+## 📈&nbsp;Github Statistics
+
+[![!Sundeep K R V Github Statistics](https://github-readme-stats.vercel.app/api?username=sundeepkrv&show_icons=true&theme=transparent&hide_border=true)](https://github-readme-stats.vercel.app/api?username=sundeepkrv)
