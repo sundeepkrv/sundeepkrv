@@ -1,26 +1,26 @@
 <div align="center">
   
-# 👋&nbsp;Hi, I’m Sundeep K R V
+# 👋&emsp;Hi, I’m Sundeep K R V
 
-🧑‍💼&nbsp;I’m a full-time power sector professional and technology enthusiast.
+🧑‍💼&emsp;I’m a full-time power sector professional and technology enthusiast.
 
-💡&nbsp;I like to explore new technologies and develop solutions & quick hacks.
+💡&emsp;I like to explore new technologies and develop solutions & quick hacks.
 
-⌨️&nbsp;In my free time, I like to scribble on new ideas for silly but for everyday problems.
+⌨️&emsp;In my free time, I like to scribble on new ideas for silly but for everyday problems.
 
-💞️&nbsp;I try to learn new things and put into action mostly using python & html etc.
+💞️&emsp;I try to learn new things and put into action mostly using python & html etc.
 
-💬&nbsp;Feel free to reach out to me for some interesting discussion or some development.
+💬&emsp;Feel free to reach out to me for some interesting discussion or some development.
 
-## 🛠&nbsp;Tech Stack
+## 🛠&emsp;Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,javascript,github" />
 
-## 📈&nbsp;Github Statistics
+## 📈&emsp;Github Statistics
 
 ![!Sundeep K R V Github Statistics](https://github-readme-stats.vercel.app/api?username=sundeepkrv&show_icons=true&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundeepkrv&show_icons=true&theme=transparent&hide_border=true)
 
-## 🤝🏻&nbsp;Connect With Me
+## 🤝🏻&emsp;Connect With Me
 
 </div>
