@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 👋&nbsp;Hi, I’m Sundeep K R V
 
 🧑‍💼&nbsp;I’m a full-time power sector professional and technology enthusiast.
@@ -12,9 +14,13 @@
 
 ## 🛠&nbsp;Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,javascript,chartjs,github" />
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,javascript,github" />
 
 ## 📈&nbsp;Github Statistics
 
 ![!Sundeep K R V Github Statistics](https://github-readme-stats.vercel.app/api?username=sundeepkrv&show_icons=true&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundeepkrv&show_icons=true&theme=transparent&hide_border=true)
+
+## 🤝🏻&nbsp;Connect With Me
+
+</div>
