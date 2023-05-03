@@ -2,7 +2,7 @@
   
 # 👋&emsp;Hi, I’m Sundeep K R V
 
-🧑‍💼&emsp;I’m a full-time power sector professional and technology enthusiast.
+🧑&emsp;I’m a full-time power sector professional and technology enthusiast.
 
 💡&emsp;I like to explore new technologies and develop solutions & quick hacks.
 
@@ -10,7 +10,7 @@
 
 💞️&emsp;I try to learn new things and put into action mostly using python & html etc.
 
-💬&emsp;Feel free to reach out to me for some interesting discussion or some development.
+💬&emsp;Feel free to reach out to me for some interesting discussion or development.
 
 ## 🛠&emsp;Tech Stack
 
