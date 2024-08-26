@@ -8,7 +8,9 @@
 
 ⌨️&emsp;In my free time, I like to scribble on new ideas for silly but everyday problems.
 
-💞️&emsp;I try to learn new things and put into action mostly using python & html etc.
+💞️&emsp;I try to learn new things and put into action mostly using python/flask etc.
+
+👁️&emsp;Checkout my repos I have built so far.
 
 💬&emsp;Feel free to reach out to me for some interesting discussion or development.
 
