@@ -2,7 +2,7 @@
   
 # 👋&emsp;Hi, I’m Sundeep K R V
 
-🧑&emsp;I’m a full-time power sector professional and technology enthusiast.
+🧑&emsp;I’m a working professional and technology enthusiast.
 
 💡&emsp;I like to explore new technologies and develop solutions & quick hacks.
 
