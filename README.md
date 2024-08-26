@@ -34,9 +34,7 @@
 </p>
 
 ## 📈&emsp;Github Statistics
-  
-<img src="https://github-profile-trophy.vercel.app/?username=sundeepkrv" alt="Trophies" />
-<img src="https://github-readme-stats.vercel.app/api?username=sundeepkrv&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="GitHub Stats" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sundeepkrv&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
   
 </div>
