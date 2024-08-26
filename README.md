@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋&emsp;Hi, I’m Sundeep K R V
+# 👋&emsp;Hi, I’m Sundeep
 
 🧑&emsp;I’m a working professional and technology enthusiast.
 
